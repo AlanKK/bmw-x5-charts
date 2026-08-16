@@ -1,0 +1,14 @@
+{
+  // Static-asset Worker config for Cloudflare's git-connected deploy.
+  // "assets.directory": "./" means everything in this docs/ folder (as
+  // published to the public bmw-x5-charts repo) is served as-is — no build
+  // step, no Worker script, just index.html + metrics.json at the root.
+  // This file lives in docs/ specifically so scripts/report.py's writes to
+  // index.html/metrics.json never touch or remove it — report.py only opens
+  // those two files with "w", it doesn't clear the directory first.
+  "name": "bmw-x5-charts",
+  "compatibility_date": "2026-08-16",
+  "assets": {
+    "directory": "./"
+  }
+}

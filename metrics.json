@@ -1,0 +1,772 @@
+{
+  "generated": "2026-08-12",
+  "run_number": 5,
+  "prior_runs": [
+    "2026-07-29",
+    "2026-07-31",
+    "2026-08-03",
+    "2026-08-06"
+  ],
+  "tiles": {
+    "total": 4606,
+    "detailed": 4606,
+    "median50e24": 56995,
+    "whiteDap": 28
+  },
+  "price_by_trim_year": {
+    "2025|xDrive50e": {
+      "median": 52561,
+      "n": 142
+    },
+    "2024|xDrive50e": {
+      "median": 56995,
+      "n": 183
+    },
+    "2026|xDrive50e": {
+      "median": 80190,
+      "n": 377
+    },
+    "2024|X5 M": {
+      "median": 95584,
+      "n": 48
+    },
+    "2024|M Competition": {
+      "median": 94757,
+      "n": 16
+    },
+    "2025|X5 M": {
+      "median": 105462,
+      "n": 20
+    },
+    "2025|M Competition": {
+      "median": 104908,
+      "n": 13
+    },
+    "2026|M Competition": {
+      "median": 121378,
+      "n": 17
+    },
+    "2026|X5 M": {
+      "median": 120210,
+      "n": 15
+    },
+    "2024|sDrive40i": {
+      "median": 48030,
+      "n": 282
+    },
+    "2024|xDrive40i": {
+      "median": 53688,
+      "n": 792
+    },
+    "2025|sDrive40i": {
+      "median": 56247,
+      "n": 116
+    },
+    "2025|xDrive40i": {
+      "median": 59900,
+      "n": 311
+    },
+    "2026|sDrive40i": {
+      "median": 67995,
+      "n": 442
+    },
+    "2024|M60i": {
+      "median": 67885,
+      "n": 133
+    },
+    "2024|": {
+      "median": 57960,
+      "n": 178
+    },
+    "2026|xDrive40i": {
+      "median": 70590,
+      "n": 951
+    },
+    "2025|": {
+      "median": 64752,
+      "n": 56
+    },
+    "2025|M60i": {
+      "median": 77700,
+      "n": 145
+    },
+    "2026|": {
+      "median": 70991,
+      "n": 83
+    },
+    "2026|M60i": {
+      "median": 86997,
+      "n": 147
+    },
+    "2026|M60I": {
+      "median": 80280,
+      "n": 1
+    }
+  },
+  "package_prevalence": {
+    "dap": 15.1,
+    "highway_assistant": 10.5,
+    "parking_assistance": 53.7,
+    "premium_pkg": 43.4,
+    "executive_pkg": 10.7,
+    "climate_comfort": 28.5,
+    "m_sport": 21.1,
+    "m_sport_pro": 18.2,
+    "lounge_pkg": 0.0,
+    "harman_kardon": 52.3,
+    "bowers_wilkins": 2.4,
+    "trailer_hitch": 6.8
+  },
+  "package_premium_2024_50e": {
+    "dap": {
+      "with": 58239,
+      "without": 56835,
+      "nw": 33,
+      "nwo": 150
+    },
+    "executive_pkg": {
+      "with": 59588,
+      "without": 56872,
+      "nw": 22,
+      "nwo": 161
+    },
+    "m_sport": {
+      "with": 59466,
+      "without": 56304,
+      "nw": 43,
+      "nwo": 140
+    },
+    "trailer_hitch": {
+      "with": 57240,
+      "without": 56898,
+      "nw": 16,
+      "nwo": 167
+    },
+    "climate_comfort": {
+      "with": 57278,
+      "without": 56835,
+      "nw": 37,
+      "nwo": 146
+    },
+    "parking_assistance": {
+      "with": 57218,
+      "without": 56885,
+      "nw": 81,
+      "nwo": 102
+    }
+  },
+  "inventory_mix": {
+    "2025|xDrive50e": 142,
+    "2024|xDrive50e": 183,
+    "2026|xDrive50e": 377,
+    "2024|X5 M": 48,
+    "2024|M Competition": 16,
+    "2025|X5 M": 20,
+    "2025|M Competition": 13,
+    "2026|M Competition": 17,
+    "2026|X5 M": 15,
+    "2024|sDrive40i": 282,
+    "2024|xDrive40i": 792,
+    "2025|sDrive40i": 116,
+    "2025|xDrive40i": 311,
+    "2026|sDrive40i": 442,
+    "2024|M60i": 133,
+    "2024|": 178,
+    "2026|xDrive40i": 951,
+    "2025|": 56,
+    "2025|M60i": 145,
+    "2026|": 83,
+    "2026|M60i": 147,
+    "2026|M60I": 1
+  },
+  "cpo_premium": {
+    "2025 xDrive50e": {
+      "premium": 1745,
+      "nw": 21,
+      "nwo": 121
+    },
+    "2024 xDrive50e": {
+      "premium": 3327,
+      "nw": 73,
+      "nwo": 110
+    },
+    "2026 xDrive50e": {
+      "premium": -1528,
+      "nw": 32,
+      "nwo": 345
+    },
+    "2024 sDrive40i": {
+      "premium": 2122,
+      "nw": 68,
+      "nwo": 214
+    },
+    "2024 xDrive40i": {
+      "premium": 1492,
+      "nw": 205,
+      "nwo": 587
+    },
+    "2025 sDrive40i": {
+      "premium": 2406,
+      "nw": 29,
+      "nwo": 87
+    },
+    "2025 xDrive40i": {
+      "premium": 2708,
+      "nw": 67,
+      "nwo": 244
+    },
+    "2026 sDrive40i": {
+      "premium": 1050,
+      "nw": 57,
+      "nwo": 385
+    },
+    "2024 M60i": {
+      "premium": 1595,
+      "nw": 27,
+      "nwo": 106
+    },
+    "2026 xDrive40i": {
+      "premium": 1145,
+      "nw": 179,
+      "nwo": 772
+    },
+    "2025 M60i": {
+      "premium": 1734,
+      "nw": 37,
+      "nwo": 108
+    },
+    "2026 M60i": {
+      "premium": 1883,
+      "nw": 25,
+      "nwo": 122
+    }
+  },
+  "dom_ready": true,
+  "sold_summary": {
+    "median_dom": 3,
+    "median_drop": 0
+  },
+  "sold_n": 1033,
+  "top_deals": [
+    {
+      "year": "2024",
+      "trim": "X5 M",
+      "price": 64285,
+      "mileage": 18384,
+      "residual": -35059,
+      "pct_vs_market": -35.3,
+      "days_on_market": 12,
+      "price_drop_total": 0,
+      "cpo": "1",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 55900,
+      "mileage": 10,
+      "residual": -26618,
+      "pct_vs_market": -32.3,
+      "days_on_market": 12,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 55900,
+      "mileage": 16,
+      "residual": -26613,
+      "pct_vs_market": -32.3,
+      "days_on_market": 12,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 55900,
+      "mileage": 52,
+      "residual": -26582,
+      "pct_vs_market": -32.2,
+      "days_on_market": 12,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive40i",
+      "price": 52500,
+      "mileage": 13,
+      "residual": -25094,
+      "pct_vs_market": -32.3,
+      "days_on_market": 6,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 59990,
+      "mileage": 25,
+      "residual": -22516,
+      "pct_vs_market": -27.3,
+      "days_on_market": 12,
+      "price_drop_total": -5010,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "sDrive40i",
+      "price": 50224,
+      "mileage": 10096,
+      "residual": -16203,
+      "pct_vs_market": -24.4,
+      "days_on_market": 12,
+      "price_drop_total": -3965,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "",
+      "no_accidents": ""
+    },
+    {
+      "year": "2026",
+      "trim": "sDrive40i",
+      "price": 55223,
+      "mileage": 4623,
+      "residual": -15061,
+      "pct_vs_market": -21.4,
+      "days_on_market": 12,
+      "price_drop_total": -5000,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive40i",
+      "price": 59462,
+      "mileage": 4185,
+      "residual": -15002,
+      "pct_vs_market": -20.1,
+      "days_on_market": 12,
+      "price_drop_total": -600,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 62995,
+      "mileage": 5799,
+      "residual": -14534,
+      "pct_vs_market": -18.7,
+      "days_on_market": 12,
+      "price_drop_total": -3000,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 66979,
+      "mileage": 1320,
+      "residual": -14410,
+      "pct_vs_market": -17.7,
+      "days_on_market": 12,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive40i",
+      "price": 62175,
+      "mileage": 1912,
+      "residual": -13994,
+      "pct_vs_market": -18.4,
+      "days_on_market": 12,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2024",
+      "trim": "X5 M",
+      "price": 85488,
+      "mileage": 18305,
+      "residual": -13892,
+      "pct_vs_market": -14.0,
+      "days_on_market": 12,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "",
+      "no_accidents": ""
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 63995,
+      "mileage": 5422,
+      "residual": -13859,
+      "pct_vs_market": -17.8,
+      "days_on_market": 12,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2024",
+      "trim": "X5 M",
+      "price": 85872,
+      "mileage": 17982,
+      "residual": -13658,
+      "pct_vs_market": -13.7,
+      "days_on_market": 6,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "0",
+      "one_owner": "0",
+      "no_accidents": "0"
+    }
+  ],
+  "watchlist": [
+    {
+      "year": "2024",
+      "trim": "xDrive50e",
+      "price": 52084,
+      "mileage": 34336,
+      "residual": -4456,
+      "pct_vs_market": -7.9,
+      "days_on_market": 6,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 75412,
+      "mileage": 6045,
+      "residual": -1905,
+      "pct_vs_market": -2.5,
+      "days_on_market": 14,
+      "price_drop_total": -2500,
+      "cpo": "1",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 74997,
+      "mileage": 7024,
+      "residual": -1476,
+      "pct_vs_market": -1.9,
+      "days_on_market": 14,
+      "price_drop_total": -900,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 80503,
+      "mileage": 1043,
+      "residual": -1125,
+      "pct_vs_market": -1.4,
+      "days_on_market": 14,
+      "price_drop_total": -1072,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 80312,
+      "mileage": 1772,
+      "residual": -688,
+      "pct_vs_market": -0.8,
+      "days_on_market": 14,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2024",
+      "trim": "xDrive50e",
+      "price": 52592,
+      "mileage": 49733,
+      "residual": -614,
+      "pct_vs_market": -1.2,
+      "days_on_market": 14,
+      "price_drop_total": -2002,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "1",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2024",
+      "trim": "xDrive50e",
+      "price": 55584,
+      "mileage": 37643,
+      "residual": -240,
+      "pct_vs_market": -0.4,
+      "days_on_market": 14,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 79426,
+      "mileage": 3378,
+      "residual": -190,
+      "pct_vs_market": -0.2,
+      "days_on_market": 6,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "1",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2024",
+      "trim": "xDrive50e",
+      "price": 58417,
+      "mileage": 27414,
+      "residual": 379,
+      "pct_vs_market": 0.7,
+      "days_on_market": 14,
+      "price_drop_total": -2704,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 79302,
+      "mileage": 4409,
+      "residual": 575,
+      "pct_vs_market": 0.7,
+      "days_on_market": 14,
+      "price_drop_total": -3,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2024",
+      "trim": "xDrive50e",
+      "price": 56715,
+      "mileage": 36813,
+      "residual": 712,
+      "pct_vs_market": 1.3,
+      "days_on_market": 14,
+      "price_drop_total": -50,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 79728,
+      "mileage": 4537,
+      "residual": 1111,
+      "pct_vs_market": 1.4,
+      "days_on_market": 14,
+      "price_drop_total": 383,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2024",
+      "trim": "xDrive50e",
+      "price": 60797,
+      "mileage": 19882,
+      "residual": 1128,
+      "pct_vs_market": 1.9,
+      "days_on_market": 14,
+      "price_drop_total": -1001,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 84146,
+      "mileage": 0,
+      "residual": 1619,
+      "pct_vs_market": 2.0,
+      "days_on_market": 14,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 86049,
+      "mileage": 0,
+      "residual": 3522,
+      "pct_vs_market": 4.3,
+      "days_on_market": 14,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 84525,
+      "mileage": 1975,
+      "residual": 3700,
+      "pct_vs_market": 4.6,
+      "days_on_market": 12,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 86275,
+      "mileage": 30,
+      "residual": 3774,
+      "pct_vs_market": 4.6,
+      "days_on_market": 14,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 86720,
+      "mileage": 416,
+      "residual": 4551,
+      "pct_vs_market": 5.5,
+      "days_on_market": 14,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2024",
+      "trim": "xDrive50e",
+      "price": 64576,
+      "mileage": 21608,
+      "residual": 5281,
+      "pct_vs_market": 8.9,
+      "days_on_market": 14,
+      "price_drop_total": 854,
+      "cpo": "1",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 88862,
+      "mileage": 5,
+      "residual": 6339,
+      "pct_vs_market": 7.7,
+      "days_on_market": 6,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 87197,
+      "mileage": 4510,
+      "residual": 8557,
+      "pct_vs_market": 10.9,
+      "days_on_market": 14,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    },
+    {
+      "year": "2026",
+      "trim": "xDrive50e",
+      "price": 93375,
+      "mileage": 3871,
+      "residual": 14184,
+      "pct_vs_market": 17.9,
+      "days_on_market": 14,
+      "price_drop_total": 0,
+      "cpo": "0",
+      "dap": "1",
+      "one_owner": "0",
+      "no_accidents": "0"
+    }
+  ]
+}
